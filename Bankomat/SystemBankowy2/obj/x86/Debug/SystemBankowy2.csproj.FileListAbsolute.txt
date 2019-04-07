@@ -1,0 +1,40 @@
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.Form1.resources
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.Properties.Resources.resources
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\bin\Debug\SystemBankowy2.exe
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\bin\Debug\SystemBankowy2.pdb
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\bin\Debug\Bank.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\bin\Debug\Bankomat.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\bin\Debug\Bankomat.pdb
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\bin\Debug\Bank.pdb
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.exe
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.exe
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\bin\Debug\SystemBankowy2.exe
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\bin\Debug\SystemBankowy2.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\bin\Debug\Bank.dll
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\bin\Debug\Bankomat.dll
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\bin\Debug\Bankomat.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\bin\Debug\Bank.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.Form1.resources
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\SystemBankowy2.Properties.Resources.resources
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mat\Desktop\SystemBankowy2\SystemBankowy2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Studia\SGGW\Bankomat\SystemBankowy2\bin\Debug\SystemBankowy2.exe
+D:\Studia\SGGW\Bankomat\SystemBankowy2\bin\Debug\SystemBankowy2.pdb
+D:\Studia\SGGW\Bankomat\SystemBankowy2\bin\Debug\Bank.dll
+D:\Studia\SGGW\Bankomat\SystemBankowy2\bin\Debug\Bankomat.dll
+D:\Studia\SGGW\Bankomat\SystemBankowy2\bin\Debug\Bankomat.pdb
+D:\Studia\SGGW\Bankomat\SystemBankowy2\bin\Debug\Bank.pdb
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.csprojAssemblyReference.cache
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.Form1.resources
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.Properties.Resources.resources
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.csproj.GenerateResource.cache
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.csproj.CoreCompileInputs.cache
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.csproj.CopyComplete
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.exe
+D:\Studia\SGGW\Bankomat\SystemBankowy2\obj\x86\Debug\SystemBankowy2.pdb

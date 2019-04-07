@@ -1,0 +1,23 @@
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\bin\Debug\Bankomat.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\bin\Debug\Bankomat.pdb
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\bin\Debug\Bank.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\bin\Debug\Bank.pdb
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\obj\Debug\ResolveAssemblyReference.cache
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\obj\Debug\Bankomat.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\bin\Debug\Bankomat.dll
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\bin\Debug\Bank.dll
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\bin\Debug\Bank.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\obj\Debug\Bankomat.dll
+C:\Users\Mat\Desktop\SystemBankowy2\Bankomat\obj\Debug\Bankomat.pdb
+D:\Studia\SGGW\Bankomat\Bankomat\bin\Debug\Bankomat.dll
+D:\Studia\SGGW\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+D:\Studia\SGGW\Bankomat\Bankomat\bin\Debug\Bank.dll
+D:\Studia\SGGW\Bankomat\Bankomat\bin\Debug\Bank.pdb
+D:\Studia\SGGW\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+D:\Studia\SGGW\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+D:\Studia\SGGW\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CopyComplete
+D:\Studia\SGGW\Bankomat\Bankomat\obj\Debug\Bankomat.dll
+D:\Studia\SGGW\Bankomat\Bankomat\obj\Debug\Bankomat.pdb

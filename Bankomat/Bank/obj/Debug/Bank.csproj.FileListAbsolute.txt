@@ -1,0 +1,16 @@
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bank\bin\Debug\Bank.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bank\bin\Debug\Bank.pdb
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bank\obj\Debug\ResolveAssemblyReference.cache
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bank\obj\Debug\Bank.dll
+c:\users\marcelinoo\documents\visual studio 2010\Projects\SystemBankowy2\Bank\obj\Debug\Bank.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\Bank\bin\Debug\Bank.dll
+C:\Users\Mat\Desktop\SystemBankowy2\Bank\bin\Debug\Bank.pdb
+C:\Users\Mat\Desktop\SystemBankowy2\Bank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Desktop\SystemBankowy2\Bank\obj\Debug\Bank.dll
+C:\Users\Mat\Desktop\SystemBankowy2\Bank\obj\Debug\Bank.pdb
+D:\Studia\SGGW\Bankomat\Bank\bin\Debug\Bank.dll
+D:\Studia\SGGW\Bankomat\Bank\bin\Debug\Bank.pdb
+D:\Studia\SGGW\Bankomat\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\Studia\SGGW\Bankomat\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Studia\SGGW\Bankomat\Bank\obj\Debug\Bank.dll
+D:\Studia\SGGW\Bankomat\Bank\obj\Debug\Bank.pdb
